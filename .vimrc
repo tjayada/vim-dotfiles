@@ -86,12 +86,15 @@ call plug#begin('~/.vim/plugged')
 
   Plug 'dense-analysis/ale'
 
+  Plug 'joshdick/onedark.vim'
+
   Plug 'preservim/nerdtree'
 
   Plug 'sheerun/vim-polyglot'
 
 call plug#end()
 
+colorscheme onedark
 
 " }}}
 
