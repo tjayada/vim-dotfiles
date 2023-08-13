@@ -1,7 +1,7 @@
 " mostly taken from 
 " https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/
 
-
+" to circumvent problems with vi 
 set nocompatible
 
 " Enable type file detection. Vim will be able to try to detect the type of file in use.
